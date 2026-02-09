@@ -13,7 +13,13 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>metado</name>
     <description>metado</description>
-    <packaging>pom  </packaging>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>metado-config</module>
+        <module>metado-admin</module>
+    </modules>
+
     <url/>
     <licenses>
         <license/>

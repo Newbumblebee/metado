@@ -18,5 +18,11 @@
         <java.version>21</java.version>
     </properties>
 
+    <dependencies>
+        <dependency>
+            <groupId>cn.metado</groupId>
+            <artifactId>metado-config</artifactId>
+        </dependency>
+    </dependencies>
 
 </project>
