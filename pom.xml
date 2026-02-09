@@ -18,6 +18,7 @@
     <modules>
         <module>metado-config</module>
         <module>metado-admin</module>
+        <module>metado-common</module>
     </modules>
 
     <url/>

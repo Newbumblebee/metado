@@ -9,7 +9,7 @@ import java.util.Arrays;
 import java.util.List;
 
 @Slf4j
-@SpringBootApplication
+@SpringBootApplication(scanBasePackages = "cn.metado")
 public class MetadoAdminApplication {
 
     public static void main(String[] args) {
