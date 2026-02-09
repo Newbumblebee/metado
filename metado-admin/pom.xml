@@ -22,6 +22,7 @@
         <dependency>
             <groupId>cn.metado</groupId>
             <artifactId>metado-config</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
